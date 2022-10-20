@@ -2,9 +2,9 @@
 
 This is a work in progress
 
-[3D printed spoke tensiometer](./images/tensio_render_1.jpg)
-[3D printed spoke tensiometer exploded](./images/tensio_exploded_render.jpg)
-[3D printed spoke tensiometer  annotated](./images/spoke-tensiometer-exploded.png)
+![3D printed spoke tensiometer](./images/tensio_render_1.jpg)
+![3D printed spoke tensiometer exploded](./images/tensio_exploded_render.jpg)
+![3D printed spoke tensiometer  annotated](./images/spoke-tensiometer-exploded.png)
 
 3D printed spoke tensiometer based on Jobst Brandt's and Filip Kralyevski's designs
 
