@@ -7,7 +7,7 @@
 ![3D printed spoke tensiometer](./images/tensio_render_1.png)
 ![3D printed spoke tensiometer  annotated](./images/spoke-tensiometer-exploded.png)
 
-## Parts
+## Parts that I used
 ### Indicator
 - Shahe digital indicator, 0-12.7mm range, 0.01mm resolution (https://www.aliexpress.com/item/32823445866.html)
 ### Motion
@@ -26,14 +26,15 @@
 ### Spring
 - Yokomo R12-18RSS x1 (https://www.ebay.co.uk/itm/225038344901)
 
-## Spring details for Yokomo R12-18RSS
+## Spring
+### Yokomo R12-18RSS
 - Wire diameter: 1.2mm
 - Outside diameter: 11.9mm
 - Free length: 30.1mm
 - Ends: Squared and ground
 - Rate: approx 2N/mm
 
-Other similar springs from Yokomo are:
+### Alternatives from Yokomo:
 - Yokomo R12-18RSS - soft
 - Yokomo R12-18RSM - medium
 - Yokomo R12-18RSH - hard
@@ -41,3 +42,6 @@ Other similar springs from Yokomo are:
 
 ## Indicator dimensions
 ![Indicator dimensions](./images/indicator_dims.png)
+
+## Link to Fusion 360 online viewer
+https://a360.co/3s8aMI6
