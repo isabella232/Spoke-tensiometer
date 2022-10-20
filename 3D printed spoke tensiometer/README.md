@@ -1,6 +1,6 @@
-# Spoke-tensiometer
+# 3D Printed Spoke Tensiometer
 
-3D printed spoke tensiometer based on Jobst Brandt's and Filip Kralyevski's designs
+3D printed spoke tensiometer based on Jobst Brandt's and Filip Kralyevski's designs.
 
 *This is a work in progress*
 
@@ -24,7 +24,7 @@
 ### Bearings
 - 696ZZ bearing (ID6xOD15xW5) x2, (https://simplybearings.co.uk/shop/p152950/Major-Branded-696ZZ-Metal-Shielded-Deep-Groove-Ball-Bearing-6x15x5mm/product_info.html)
 ### Spring
-- Yokomo R12-18RSS x1, (https://www.ebay.co.uk/itm/225038344901)
+- Yokomo R12-18RSS x1 (https://www.ebay.co.uk/itm/225038344901)
 
 ## Spring details for Yokomo R12-18RSS
 - Wire diameter: 1.2mm
