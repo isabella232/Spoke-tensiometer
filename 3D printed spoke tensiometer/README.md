@@ -35,10 +35,10 @@
 - Rate: approx 2N/mm
 
 ### Alternatives from Yokomo:
-- Yokomo R12-18RSS - soft
-- Yokomo R12-18RSM - medium
-- Yokomo R12-18RSH - hard
-- Yokomo R12-18RSSH - super hard
+- R12-18RSS - soft
+- R12-18RSM - medium
+- R12-18RSH - hard
+- R12-18RSSH - super hard
 
 ## Indicator dimensions
 ![Indicator dimensions](./images/indicator_dims.png)
