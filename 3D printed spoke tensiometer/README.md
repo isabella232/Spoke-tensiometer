@@ -1,5 +1,7 @@
 <h1>3D printed spoke tensiometer <sup><span style="font-size:0.5em">(or tension meter if you prefer)</span></sup></h1>
 
+<h1>3D printed spoke tensiometer <sup><small>(or tension meter if you prefer)</small></sup></h1>
+
 3D printed spoke tensiometer based on Jobst Brandt's and Filip Kralyevski's designs.
 
 *This is a work in progress*
