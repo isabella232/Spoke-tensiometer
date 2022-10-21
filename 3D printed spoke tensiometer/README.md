@@ -21,7 +21,7 @@ This is a work in progress
 - M3x20 socket cap head screw x 2
 - M5xD6xL5 shoulder screw x 2 (https://www.aliexpress.com/item/1005004367176439.html)
 - M3xD5.0xL4.0 threaded inserts x 4 (https://www.aliexpress.com/item/4000761483243.html)
-- M5xD8.0xL7.0 threaded inserts x 2 (https://www.aliexpress.com/item/4000232990523.html)
+- M5xD8.0xL9.0 threaded inserts x 2 (https://www.aliexpress.com/item/4000232990523.html)
 ### Bearings
 - 696 bearing (ID6xOD15xW5) x 2 (https://simplybearings.co.uk/shop/p152950/Major-Branded-696ZZ-Metal-Shielded-Deep-Groove-Ball-Bearing-6x15x5mm/product_info.html)
 ### Spring
