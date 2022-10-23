@@ -13,10 +13,11 @@ This is a work in progress.
 * Motion:
 	* THK VRT 1055 cross-roller table (https://www.ebay.co.uk/itm/185530610857)
 * Fasteners:
-	* M2x? phillips countersunk screw x4 (https://www.aliexpress.com/item/32869347610.html)
+	* M2x8 phillips countersunk screw x4 (https://www.aliexpress.com/item/32869347610.html)
 	* M2.5x5 socket flanged button screw x1 (https://www.ebay.co.uk/itm/175312432319)
-	* M2.6x? phillips countersunk screw x9 (https://www.aliexpress.com/item/4001066920056.html)
-	* M3x? socket cap head screw x4
+	* M2.6x6 phillips countersunk screw x4 (https://www.aliexpress.com/item/4001066920056.html)
+	* M2.6x8 phillips countersunk screw x5 (https://www.aliexpress.com/item/4001066920056.html)
+	* M3x16 socket cap head screw x4
 	* M5xD6xL5 shoulder screw x2 (https://www.aliexpress.com/item/1005004367176439.html)
 	* M3xD5.0xL4.0 threaded inserts x4 (https://www.aliexpress.com/item/4000761483243.html)
 	* M5xD8.0xL9.0 threaded inserts x2 (https://www.aliexpress.com/item/4000232990523.html)
@@ -35,7 +36,7 @@ This is a work in progress.
 		* outside diameter: 11.9mm
 		* free length: 30.1mm
 		* ends: Squared and ground
-		* rate: approx 2N/mm
+		* spring rate: approx 2N/mm
 	* Other Yokomo springs with the same dimensions
 		* R12-18RSS - soft
 		* R12-18RSM - medium
@@ -47,7 +48,7 @@ This is a work in progress.
 		* shoulder diameter: 6mm
 		* shoulder length: 5mm
 		* thread: M5
-	* Ultra-low head shoulder screws are an option e.g. https://www.wdscomponents.com/en-gb/ultra-low-head-stainless-steel-shoulder-bolts-wds-887/c-526/p-47459/v-47478, https://www.mcmaster.com/screws/shoulder-screws-4/system-of-measurement~metric/shoulder-length~5-mm/thread-size~m5/socket-head-profile~ultra-low/
+	* ultra-low head shoulder screws are an option from, for example: https://www.wdscomponents.com/en-gb/ultra-low-head-stainless-steel-shoulder-bolts-wds-887/c-526/p-47459/v-47478 and https://www.mcmaster.com/screws/shoulder-screws-4/system-of-measurement~metric/shoulder-length~5-mm/thread-size~m5/socket-head-profile~ultra-low/
 	* M2.6 screws for the cross-roller table:
 		* McMaster-Carr has a few options https://www.mcmaster.com/screws/system-of-measurement~metric/thread-size~m2-6/
 	* M2.5 flanged screw:
