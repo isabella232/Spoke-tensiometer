@@ -18,7 +18,7 @@ This is a work in progress.
 	* M2.6x6 phillips countersunk screw x4 (https://www.aliexpress.com/item/4001066920056.html)
 	* M2.6x8 phillips countersunk screw x5 (https://www.aliexpress.com/item/4001066920056.html)
 	* M3x16 socket cap head screw x4
-	* M5xD6xL5 shoulder screw x2 (https://www.aliexpress.com/item/1005004367176439.html)
+	* D6xL5xM5 shoulder screw x2 (https://www.aliexpress.com/item/1005004367176439.html)
 	* M3xD5.0xL4.0 threaded inserts x4 (https://www.aliexpress.com/item/4000761483243.html)
 	* M5xD8.0xL9.0 threaded inserts x2 (https://www.aliexpress.com/item/4000232990523.html)
 * Bearings:
@@ -55,4 +55,4 @@ This is a work in progress.
 		* a screw plus washer would do the same job
 
 ## Link to Fusion 360 online viewer
-https://a360.co/3s8aMI6
+https://a360.co/3N3vXVd
