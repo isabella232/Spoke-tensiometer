@@ -29,7 +29,7 @@ This is a work in progress.
 ## More on parts
 * Indicator:
 	* Any dial or digital indicator with the same dimensions, or others with modifications to the printed parts
-	* ![Indicator dimensions](./images/indicator_dims.png)
+	* <img src="./images/indicator_dims.png" width="50%">
 * Spring:
 	* the R12-18RSS dimensions are:
 		* wire diameter: 1.2mm
