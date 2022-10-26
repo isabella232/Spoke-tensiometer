@@ -4,7 +4,7 @@
 
 This is a work in progress.
 
-![3D printed spoke tensiometer](./images/tensio_2.jpg)
+![3D printed spoke tensiometer](./images/_DSF1176.jpg)
 ![3D printed spoke tensiometer exploded diagram](./images/spoke-tensiometer-exploded.png)
 
 ## Parts
