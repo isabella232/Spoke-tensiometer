@@ -55,5 +55,8 @@ This is a work in progress.
 	* M2.5 flanged screw:
 		* a screw plus washer would do the same job
 
+## Assembly
+* guide_pt2 is glued (superglue, epoxy etc) into guide_pt1
+
 ## Link to Fusion 360 online viewer
 https://a360.co/3N3vXVd
